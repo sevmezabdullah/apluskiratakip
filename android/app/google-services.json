@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551837969258",
+    "project_id": "apluskiratakip-ae6c5",
+    "storage_bucket": "apluskiratakip-ae6c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551837969258:android:032679efd6a2333aeb1313",
+        "android_client_info": {
+          "package_name": "com.apluskiratakip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsV2OBMaldJp2IgeqHaW6tvOuoVQMm4hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
