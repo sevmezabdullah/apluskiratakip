@@ -1,32 +1,13 @@
 {
   "project_info": {
-    "project_number": "551837969258",
-    "project_id": "apluskiratakip-ae6c5",
-    "storage_bucket": "apluskiratakip-ae6c5.appspot.com"
+    "project_number": "1040354227466",
+    "project_id": "aplus-f9e92",
+    "storage_bucket": "aplus-f9e92.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:551837969258:android:032679efd6a2333aeb1313",
-        "android_client_info": {
-          "package_name": "com.apluskiratakip"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAsV2OBMaldJp2IgeqHaW6tvOuoVQMm4hQ"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:551837969258:android:7912a0ed943b143eeb1313",
+        "mobilesdk_app_id": "1:1040354227466:android:259fa3aa2d7f87fa52f6f3",
         "android_client_info": {
           "package_name": "com.eneskartal.aplus"
         }
@@ -34,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAsV2OBMaldJp2IgeqHaW6tvOuoVQMm4hQ"
+          "current_key": "AIzaSyDUhEGjmGi3t4pC71YgIHi8DSlu6J3O6pg"
         }
       ],
       "services": {
