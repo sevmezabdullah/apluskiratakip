@@ -7,7 +7,7 @@ const App = () => {
 
 
 
-  const [deviceToken, setDeviceToken] = useState<string>("");
+  const [deviceToken, setDeviceToken] = useState<string>('');
 
   useEffect(() => {
     messaging().getToken().then(token => {
@@ -21,7 +21,7 @@ const App = () => {
 
   if (deviceToken) {
     return <WebView javaScriptEnabled source={{
-      uri: 'https://apluskiratakip.com/signin'
+      uri: 'https://apluskiratakip.com',
     }} style={{ flex: 1 }} injectedJavaScript={`
   localStorage.setItem("deviceToken","${deviceToken}");
   console.log("deviceToken", localStorage.getItem("deviceToken"));
@@ -35,7 +35,6 @@ const App = () => {
 
     />
   }
-
 
   return (
     <View>

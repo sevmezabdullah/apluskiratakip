@@ -1,4 +1,4 @@
-package com.apluskiratakip
+package com.eneskartal.aplus
 
 import android.app.Application
 import com.facebook.react.PackageList
